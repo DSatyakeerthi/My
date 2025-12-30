@@ -131,6 +131,7 @@
             }
 
             .baking-button, .howto-button{
+                display: block;
                 top: 15px;
                 font-size: 10px;
                 padding-top:6px;
@@ -140,13 +141,16 @@
                 gap:10px;
             }
             .readnow-button {
-                bottom:80px;
+                bottom:40px;
                 font-size: 12px;
                 padding-top: 6px;
                 padding-bottom: 6px;
                 padding-left: 10px;
                 padding-right: 10px;
                 border-radius: 12px; 
+            }
+            .waiting-time{
+                font-size: 8px;
             }
 
 
